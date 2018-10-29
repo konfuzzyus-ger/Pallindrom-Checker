@@ -1,0 +1,5 @@
+/home/martin/Projekte/Pallindrom/Pallindrom/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/martin/Projekte/Pallindrom/Pallindrom/bin/Debug/Pallindrom.pdb
+/home/martin/Projekte/Pallindrom/Pallindrom/bin/Debug/Pallindrom.exe
+/home/martin/Projekte/Pallindrom/Pallindrom/obj/x86/Debug/Pallindrom.exe
+/home/martin/Projekte/Pallindrom/Pallindrom/obj/x86/Debug/Pallindrom.pdb
